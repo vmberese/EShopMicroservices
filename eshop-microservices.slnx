@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="src/Services/Catalog/Catalog.API/Catalog.API.csproj" Id="7f5c2864-3c1f-48f6-986b-8325368af1fb" />
+</Solution>
